@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="comp" value="import React from 'react'&#10;&#10;export default class $CLASS_NAME$ extends React.Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;Hello&lt;/div&gt;&#10;    )&#10;  }&#10;}" description="Export default React Class Component" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

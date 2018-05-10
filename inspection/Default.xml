@@ -1,0 +1,95 @@
+<profile version="1.0">
+  <option name="myName" value="Default" />
+  <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myCustomPropertiesEnabled" value="true" />
+    <option name="myIgnoreVendorSpecificProperties" value="false" />
+    <option name="myCustomPropertiesList">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="align" />
+          <item index="1" class="java.lang.String" itemvalue="valign" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="DjangoUnresolvedUrlInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ES6ModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="5">
+          <item index="0" class="java.lang.String" itemvalue="stylename" />
+          <item index="1" class="java.lang.String" itemvalue="chart-data" />
+          <item index="2" class="java.lang.String" itemvalue="chart-options" />
+          <item index="3" class="java.lang.String" itemvalue="chart-labels" />
+          <item index="4" class="java.lang.String" itemvalue="htmlfor" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyClassHasNoInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ourVersions">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="3.6" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredPackages">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="storages" />
+          <item index="1" class="java.lang.String" itemvalue="factory" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredErrors">
+      <list>
+        <option value="W191" />
+        <option value="E402" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredErrors">
+      <list>
+        <option value="N806" />
+        <option value="N802" />
+        <option value="N813" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredNames">
+      <list>
+        <option value="format" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="ERROR" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="tests.CompanyFactory" />
+        <option value="klopp.serializers.CompanyModelSerializerMixin.context" />
+        <option value="klopp.booking.serializers.CreatorModelMixin.context" />
+        <option value="klopp.company.models.Company.preferences" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
+</profile>
