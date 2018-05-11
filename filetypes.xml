@@ -22,6 +22,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cypress" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="js'" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
