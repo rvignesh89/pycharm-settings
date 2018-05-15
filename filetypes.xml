@@ -25,6 +25,7 @@
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="js'" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="podspec" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
