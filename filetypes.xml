@@ -18,6 +18,7 @@
       <mapping pattern="PhoneNumberInput" type="PLAIN_TEXT" />
       <mapping pattern="CreateContactModal" type="PLAIN_TEXT" />
       <mapping pattern="SlotInput" type="PLAIN_TEXT" />
+      <mapping ext="gradle" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
