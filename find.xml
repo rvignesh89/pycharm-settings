@@ -20,6 +20,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.py</mask>
+    <mask>*.feature</mask>
     <mask>*.*</mask>
   </component>
 </application>
