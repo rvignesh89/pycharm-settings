@@ -2,36 +2,35 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="install_dependencies" type="Native" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping pattern="showLoading" type="PLAIN_TEXT" />
-      <mapping pattern="scripts" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="CreateContactModal" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="nginx-klopp" type="PLAIN_TEXT" />
-      <mapping pattern="SlotInput" type="PLAIN_TEXT" />
-      <mapping pattern="Klopp" type="PLAIN_TEXT" />
+      <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="FieldColorInput" type="PLAIN_TEXT" />
+      <mapping pattern="Klopp" type="PLAIN_TEXT" />
+      <mapping pattern="showLoading" type="PLAIN_TEXT" />
+      <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="PaymentRequestBlock" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberInput" type="PLAIN_TEXT" />
-      <mapping ext="podspec" type="PLAIN_TEXT" />
-      <mapping ext="nginx" type="PLAIN_TEXT" />
-      <mapping ext="js'" type="PLAIN_TEXT" />
-      <mapping ext="gradle" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="CreateContactModal" type="PLAIN_TEXT" />
+      <mapping pattern="SlotInput" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="mp4" type="PLAIN_TEXT" />
-      <mapping ext="staging" type="PLAIN_TEXT" />
-      <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="gradle" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="js'" type="PLAIN_TEXT" />
+      <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="cypress" type="PLAIN_TEXT" />
+      <mapping ext="podspec" type="PLAIN_TEXT" />
+      <mapping ext="m" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="ci" type="Dockerfile" />
       <mapping ext="test" type="Dockerfile" />
-      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
