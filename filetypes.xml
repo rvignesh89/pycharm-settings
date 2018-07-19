@@ -22,6 +22,7 @@
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="PLAIN_TEXT" />
+      <mapping ext="sj" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="js'" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
