@@ -12,6 +12,7 @@
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="FieldColorInput" type="PLAIN_TEXT" />
       <mapping pattern="Klopp" type="PLAIN_TEXT" />
+      <mapping pattern="IsClientConnected" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="PaymentRequestBlock" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberInput" type="PLAIN_TEXT" />
