@@ -9,16 +9,17 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="RegisterDeviceTokenHOC" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="CreateContactModal" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="FieldColorInput" type="PLAIN_TEXT" />
       <mapping pattern="Klopp" type="PLAIN_TEXT" />
-      <mapping pattern="IsClientConnected" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="PaymentRequestBlock" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberInput" type="PLAIN_TEXT" />
-      <mapping pattern="CreateContactModal" type="PLAIN_TEXT" />
+      <mapping pattern="IsClientConnected" type="PLAIN_TEXT" />
       <mapping pattern="showLoading" type="PLAIN_TEXT" />
       <mapping pattern="SlotInput" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
