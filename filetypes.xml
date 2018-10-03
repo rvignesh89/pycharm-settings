@@ -20,6 +20,7 @@
       <mapping pattern="CreateContactModal" type="PLAIN_TEXT" />
       <mapping pattern="showLoading" type="PLAIN_TEXT" />
       <mapping pattern="SlotInput" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
