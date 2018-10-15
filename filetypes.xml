@@ -17,6 +17,7 @@
       <mapping pattern="PaymentRequestBlock" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberInput" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
+      <mapping pattern="WithUser" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="CreateContactModal" type="PLAIN_TEXT" />
       <mapping pattern="showLoading" type="PLAIN_TEXT" />
