@@ -15,6 +15,7 @@
       <mapping pattern="category" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="PaymentRequestBlock" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberInput" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern="WithUser" type="PLAIN_TEXT" />
