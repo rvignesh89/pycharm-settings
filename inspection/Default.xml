@@ -5,4 +5,5 @@
     <group names="y,height,top,bottom" />
     <exclude classes="Math" />
   </inspection_tool>
+  <inspection_tool class="JSUnresolvedVariable" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>
